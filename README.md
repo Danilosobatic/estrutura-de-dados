@@ -13,15 +13,15 @@ Estudar diferentes estruturas de dados, sua manipulação e suas aplicações. E
 
 # Conteúdos
 
-*Introdução a estruturas de dados [slide] (https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_01-%20Conceitos%20iniciais.pptx%20(2).pdf)
-*Listas e tuplas [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_02-%20Listas%20e%20Tuplas.pptx%20(2).pdf)
-*Dicionários [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_03-%20Dicionario.pptx%20(2).pdf)
-*Conjuntos [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_04-%20Conjunto.pptx%20(2).pdf )
-*Introdução a Orientação a Objetos [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_05-%20Introdu%C3%A7%C3%A3o%20a%20Orienta%C3%A7%C3%A3o%20a%20Objetos.pptx%20(2).pdf)
-*Pilha e Fila [slide] (https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_06-%20Pilha%20e%20fila.pptx%20(2).pdf )
-*Listas encadeadas  [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_07-%20Listas%20Encadeadas.pdf)
-*Árvores, Árvores Binária  [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_08-%20%C3%81rvores.pptx%20(1).pdf)
-*Arquivos [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_09-Arquivos.pptx.pdf)
+ * Introdução a estruturas de dados [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_01-%20Conceitos%20iniciais.pptx%20(2).pdf)
+ * Listas e tuplas [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_02-%20Listas%20e%20Tuplas.pptx%20(2).pdf)
+ * Dicionários [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_03-%20Dicionario.pptx%20(2).pdf)
+ * Conjuntos [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_04-%20Conjunto.pptx%20(2).pdf )
+ * Introdução a Orientação a Objetos [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_05-%20Introdu%C3%A7%C3%A3o%20a%20Orienta%C3%A7%C3%A3o%20a%20Objetos.pptx%20(2).pdf)
+ * Pilha e Fila [slide] (https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_06-%20Pilha%20e%20fila.pptx%20(2).pdf )
+ * Listas encadeadas  [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_07-%20Listas%20Encadeadas.pdf)
+ * Árvores, Árvores Binária  [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_08-%20%C3%81rvores.pptx%20(1).pdf)
+ * Arquivos [slide](https://github.com/Danilosobatic/estrutura-de-dados/blob/main/conteudos/ED_09-Arquivos.pptx.pdf)
 
  # Material
  
